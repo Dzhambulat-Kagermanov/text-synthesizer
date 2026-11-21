@@ -1,0 +1,11 @@
+# --- common ---
+langdetect>=1.0.9
+numpy>=1.24
+soundfile>=0.12
+
+# --- silero (RU, офлайн) ---
+torch>=2.0
+silero>=0.5.5
+
+# --- edge-tts (RU, онлайн) ---
+edge-tts>=7.0
